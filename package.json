@@ -25,7 +25,9 @@
     "angularx-social-login": "^1.2.5",
     "core-js": "^2.5.4",
     "rxjs": "~6.3.3",
-    "zone.js": "~0.8.26"
+    "zone.js": "~0.8.26",
+    "@angular/material":"~7.3.7" 
+
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.10.0",
